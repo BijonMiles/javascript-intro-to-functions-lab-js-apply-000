@@ -18,4 +18,6 @@ function sayHiToGrandma(string) {
   return string.toLowerCase('hello')
   
   return string.toUpperCase('HELLO')
+  
+  return string.
 }
