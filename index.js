@@ -18,7 +18,7 @@ function sayHiToGrandma(string) {
   
   var lowercase = 'hello'
   lowercase.toLowerCase() === lowercase // true
-  retun string.toLowerCase('yes, indeed')
+  retun string.toLowerCase('I can't hear you)
   
   var uppercase = "HELLO"
   uppercase.toUpperCase() === uppercase // true
